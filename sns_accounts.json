@@ -1,0 +1,156 @@
+{
+  "_comment": "タレント別 SNS アカウントURL マスタ。daily_followers_log.json への自動取得スケジュールで参照される。",
+  "_updated": "2026-05-25",
+  "talents": [
+    {
+      "name": "湯上響花",
+      "id": "yugami",
+      "sns": {
+        "instagram": "https://www.instagram.com/fantique_/",
+        "twitter": "https://twitter.com/higuys_iamkyoka",
+        "tiktok": "https://www.tiktok.com/@eeveemania",
+        "youtube": "https://www.youtube.com/channel/UChJ8kg_WcIhkxwKTnq1_egA"
+      }
+    },
+    {
+      "name": "小西詠斗",
+      "id": "konishi",
+      "sns": {
+        "instagram": "https://www.instagram.com/eito.konishi/",
+        "twitter": "https://twitter.com/Eightkns",
+        "tiktok": "https://www.tiktok.com/@konishi_eito",
+        "youtube": "https://www.youtube.com/channel/UCcboCTo355azsOFo4f_3Iaw"
+      }
+    },
+    {
+      "name": "景井ひな",
+      "id": "kagei",
+      "sns": {
+        "instagram": "https://www.instagram.com/kagei_hina/",
+        "twitter": "https://twitter.com/hinatter0219",
+        "tiktok": "https://www.tiktok.com/@kageihina",
+        "youtube": null
+      }
+    },
+    {
+      "name": "花山瑞貴",
+      "id": "hanayama",
+      "sns": {
+        "instagram": "https://www.instagram.com/mi_smile25/",
+        "twitter": null,
+        "tiktok": "https://www.tiktok.com/@mi_smile25",
+        "youtube": "https://www.youtube.com/channel/UCIQufpqCxhRUttqv0yZEO4A"
+      }
+    },
+    {
+      "name": "水瀬紗彩耶",
+      "id": "minase",
+      "sns": {
+        "instagram": "https://www.instagram.com/saaya_minase_",
+        "twitter": "https://x.com/saaya_minase_",
+        "tiktok": "https://www.tiktok.com/@saaya_minase_",
+        "youtube": "https://www.youtube.com/channel/UCXEmjVLA0c79hGMQY7geeQg"
+      }
+    },
+    {
+      "name": "七瀬恋彩",
+      "id": "nanase",
+      "sns": {
+        "instagram": "https://www.instagram.com/bgirlcocoa/",
+        "twitter": "https://twitter.com/bgirlcocoa",
+        "tiktok": "https://www.tiktok.com/@bgirlcocoa",
+        "youtube": null
+      }
+    },
+    {
+      "name": "皆藤空良",
+      "id": "kaito",
+      "sns": {
+        "instagram": "https://www.instagram.com/sora.kaito0520/",
+        "twitter": "https://twitter.com/sora_kaito0520",
+        "tiktok": "https://www.tiktok.com/@sora.kaito0520",
+        "youtube": null
+      }
+    },
+    {
+      "name": "まお",
+      "id": "mao",
+      "sns": {
+        "instagram": "https://www.instagram.com/mao.6454/",
+        "twitter": "https://twitter.com/mao0504_",
+        "tiktok": "https://www.tiktok.com/@manamimio",
+        "youtube": "https://www.youtube.com/channel/UCu7M4G63TvxoDJbX5woNELg"
+      }
+    },
+    {
+      "name": "せきぐちりさ",
+      "id": "sekiguchi",
+      "sns": {
+        "instagram": "https://www.instagram.com/risa_s_lisa/",
+        "twitter": "https://twitter.com/risa_s_lisa",
+        "tiktok": "https://www.tiktok.com/@risa_s_lisa",
+        "youtube": null
+      }
+    },
+    {
+      "name": "坂田秀晃",
+      "id": "sakata",
+      "sns": {
+        "instagram": "https://www.instagram.com/sakata_hideaki/",
+        "twitter": null,
+        "tiktok": "https://www.tiktok.com/@sakata_hideaki",
+        "youtube": null
+      }
+    },
+    {
+      "name": "中本大賀",
+      "id": "nakamoto",
+      "sns": {
+        "instagram": "https://www.instagram.com/tiger_gaooo_0217/",
+        "twitter": "https://x.com/taiga08270217",
+        "tiktok": "https://www.tiktok.com/@tiger_gaooo_0217",
+        "youtube": null
+      }
+    },
+    {
+      "name": "宮本廉也",
+      "id": "miyamoto",
+      "sns": {
+        "instagram": "https://www.instagram.com/mren_1118/",
+        "twitter": "https://x.com/renya_111804",
+        "tiktok": "https://www.tiktok.com/@renya_1118",
+        "youtube": null
+      }
+    },
+    {
+      "name": "永田聖一朗",
+      "id": "nagata",
+      "sns": {
+        "instagram": "https://www.instagram.com/nagata_s_16/",
+        "twitter": "https://x.com/Nagatan_0709_",
+        "tiktok": "https://www.tiktok.com/@seichan0709",
+        "youtube": null
+      }
+    },
+    {
+      "name": "のぼりもえ",
+      "id": "nobori",
+      "sns": {
+        "instagram": "https://www.instagram.com/moe_nobori/",
+        "twitter": "https://twitter.com/_mme16",
+        "tiktok": "https://www.tiktok.com/@moe_nobori",
+        "youtube": "https://www.youtube.com/channel/UCaV39Xd3L10MqGy7FFVeQew"
+      }
+    },
+    {
+      "name": "SUMOMO",
+      "id": "sumomo",
+      "sns": {
+        "instagram": null,
+        "twitter": null,
+        "tiktok": null,
+        "youtube": null
+      }
+    }
+  ]
+}

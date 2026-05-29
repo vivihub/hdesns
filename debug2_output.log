@@ -1,0 +1,49 @@
+Total sections: 20
+
+Full section first 600 chars:
+'|  | instagram |  |  | Twitter |  |  | TikTok |  |  | YouTube |  |  |\n| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |\n|  | https://www.instagram.com/fantique\\_/ |  |  | https://twitter.com/higuys\\_iamkyoka |  |  | https://www.tiktok.com/@eeveemania |  |  | https://www.youtube.com/channel/UChJ8kg\\_WcIhkxwKTnq1\\_egA |  |  |\n|  | 投稿URL | 実数 | 前日比 | 投稿URL | 実数 | 前日比 | 投稿URL | 実数 | 前日比 | 投稿URL | 実数 | 前日比 |\n| 1日 | \\- | 35,615 |  | https://twitter.com/higuys\\_iamkyoka/status/1609203751818231808?s=20\\&t=eoQYU0qF9XPYPyc7jrAKjA | 38,736 |  | \\- |  |  | \\- | 32,100 |  |\n| '
+
+Number of lines: 38
+
+First 5 lines:
+  [0]: '|  | instagram |  |  | Twitter |  |  | TikTok |  |  | YouTube |  |  |'
+  [1]: '| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |'
+  [2]: '|  | https://www.instagram.com/fantique\\_/ |  |  | https://twitter.com/higuys\\_iamkyoka |  |  | https://www.tiktok.com/@eeveemania |  |  | https://www.youtube.com/channel/UChJ8kg\\_WcIhkxwKTnq1\\_egA |  |  |'
+  [3]: '|  | 投稿URL | 実数 | 前日比 | 投稿URL | 実数 | 前日比 | 投稿URL | 実数 | 前日比 | 投稿URL | 実数 | 前日比 |'
+  [4]: '| 1日 | \\- | 35,615 |  | https://twitter.com/higuys\\_iamkyoka/status/1609203751818231808?s=20\\&t=eoQYU0qF9XPYPyc7jrAKjA | 38,736 |  | \\- |  |  | \\- | 32,100 |  |'
+
+Found IG username in line 2: 'fantique'
+
+
+Day rows found:
+  Day 1: ig=35615 (from '35,615')
+  Day 2: ig=35617 (from '35,617')
+  Day 3: ig=35619 (from '35,619')
+  Day 4: ig=35617 (from '35,617')
+  Day 5: ig=35613 (from '35,613')
+  Day 6: ig=35611 (from '35,611')
+  Day 7: ig=35606 (from '35,606')
+  Day 8: ig=35603 (from '35,603')
+  Day 9: ig=35590 (from '35,590')
+  Day 10: ig=35580 (from '35,580')
+  Day 11: ig=35572 (from '35,572')
+  Day 12: ig=35563 (from '35,563')
+  Day 13: ig=35549 (from '35,549')
+  Day 14: ig=35541 (from '35,541')
+  Day 15: ig=35533 (from '35,533')
+  Day 16: ig=35521 (from '35,521')
+  Day 17: ig=35522 (from '35,522')
+  Day 18: ig=35510 (from '35,510')
+  Day 19: ig=35508 (from '35,508')
+  Day 20: ig=35506 (from '35,506')
+  Day 21: ig=35498 (from '35,498')
+  Day 22: ig=35491 (from '35,491')
+  Day 23: ig=35485 (from '35,485')
+  Day 24: ig=35476 (from '35,476')
+  Day 25: ig=35469 (from '35,469')
+  Day 26: ig=35465 (from '35,465')
+  Day 27: ig=35461 (from '35,461')
+  Day 28: ig=35456 (from '35,456')
+  Day 29: ig=35453 (from '35,453')
+  Day 30: ig=35444 (from '35,444')
+  Day 31: ig=35434 (from '35,434')
